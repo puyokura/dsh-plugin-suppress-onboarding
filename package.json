@@ -1,0 +1,24 @@
+﻿{
+  "name": "dsh-plugin-suppress-onboarding",
+  "version": "1.0.0",
+  "description": "Cordis plugin for dsh-TUI to automatically suppress the onboarding splash screen",
+  "type": "module",
+  "main": "index.mjs",
+  "files": [
+    "index.mjs"
+  ],
+  "keywords": [
+    "cordis",
+    "cordis-plugin",
+    "dsh",
+    "dsh-tui",
+    "dst",
+    "deepseek-harness"
+  ],
+  "author": "puyokura",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puyokura/dsh-plugin-suppress-onboarding.git"
+  }
+}
